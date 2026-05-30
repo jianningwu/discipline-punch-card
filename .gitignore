@@ -41,3 +41,6 @@ coverage/
 
 # Misc
 *.tgz
+
+#忽略ctags产生的tags文件
+tags
