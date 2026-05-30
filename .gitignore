@@ -44,3 +44,10 @@ coverage/
 
 #忽略ctags产生的tags文件
 tags
+
+#python虚拟环境
+venv/
+env/
+.env/
+.venv/
+
